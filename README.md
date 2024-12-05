@@ -4,6 +4,11 @@
 
 This project is an implementation of the classic "Simon Says" memory game using an **STM32F103RB** microcontroller. The game challenges players to memorize and reproduce increasingly long sequences of LED flashes by pressing corresponding buttons. It's a fun way to test memory skills while getting hands-on experience with microcontroller programming and hardware interfacing.
 
+## [Video Demonstration]("https://youtu.be/QTLx9GiD8yk")
+
+
+
+
 ## How to Play
 
 1. **Starting the Game:**
@@ -240,8 +245,7 @@ The program is written in **C** and utilizes the **STM32 Standard Peripheral Lib
 - **STM32 Documentation:**
   - Refer to the **STM32F103RB** reference manual and datasheets for detailed information on registers and peripherals.
 
-- **Community Resources:**
-  - Online forums and communities can be helpful for troubleshooting and learning more about STM32 development.
+
 
 ## License
 
